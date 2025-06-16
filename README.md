@@ -1,6 +1,6 @@
 <p align=center>
-  <a href="https://reactos.org/">
-    <img alt="ReactOS" src="https://reactos.org/wiki/images/0/02/ReactOS_logo.png">
+  <a href="https://loswind.org/">
+    <img alt="Loswind" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhistory-computer.com%2Fwp-content%2Fuploads%2F2022%2F10%2Fhistory-of-Operating-Systems-header-2048x1287.jpg&f=1&nofb=1&ipt=dcd1940257bf4039fa9c89f1471e873bbcb84d0366c9534fc563178660a6411b">
   </a>
 </p>
 
